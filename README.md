@@ -28,7 +28,7 @@ To run the Weather Dashboard, you have two options:
 
 ### Run Online
 You can access the live version of the Weather Dashboard here:
-🔗 [Weather Dashboard](https://weatherbymohamed.netlify.app/)
+🔗 [Weather Dashboard](https://weather-dashboard-nmcp-cs.netlify.app/)
 
 ### Run Locally
 1. Ensure you have an **internet connection** to fetch weather data.
